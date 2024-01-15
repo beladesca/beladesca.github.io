@@ -1,0 +1,138 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8f7;
+    color: #333;
+    padding: 5%;
+}
+
+h1 {
+    color: #f0f8f7;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.ket{
+    text-align: left;
+}
+
+label {
+    color: #333;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+}
+
+button {
+    color: #333;
+    padding: 10px 15px;
+    border: 2px solid #3b7865;
+    cursor: pointer;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    margin-bottom: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:hover{
+    background-color: #3b7865;
+    color: #f0f8f7;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.head{
+    background-color: #3b7865;
+}
+
+.jl{
+    background-color: #3b7865;
+    padding: 10px;
+    color: #f0f8f7;
+    text-align: center;
+}
+
+.htng{
+    border: 1px solid #33333380;
+    border-top: none;
+}
+
+.area{
+    padding: 2%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16%;
+    height: auto;
+}
+
+.tombol {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*bela*/
